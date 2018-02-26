@@ -1,0 +1,13 @@
+C:\Fe\Development\Interviews\FileReader\FileReader\bin\Debug\FileReader.exe.config
+C:\Fe\Development\Interviews\FileReader\FileReader\bin\Debug\FileReader.exe
+C:\Fe\Development\Interviews\FileReader\FileReader\bin\Debug\FileReader.pdb
+C:\Fe\Development\Interviews\FileReader\FileReader\obj\Debug\FileReader.csprojResolveAssemblyReference.cache
+C:\Fe\Development\Interviews\FileReader\FileReader\obj\Debug\FileReader.csproj.CoreCompileInputs.cache
+C:\Fe\Development\Interviews\FileReader\FileReader\obj\Debug\FileReader.exe
+C:\Fe\Development\Interviews\FileReader\FileReader\obj\Debug\FileReader.pdb
+C:\Fe\Development\Interviews\FileReader\FileReader\bin\Debug\FileReader.exe.manifest
+C:\Fe\Development\Interviews\FileReader\FileReader\bin\Debug\FileReader.application
+C:\Fe\Development\Interviews\FileReader\FileReader\obj\Debug\FileReader.exe.manifest
+C:\Fe\Development\Interviews\FileReader\FileReader\obj\Debug\FileReader.application
+C:\Fe\Development\Interviews\FileReader\FileReader\bin\Debug\Newtonsoft.Json.dll
+C:\Fe\Development\Interviews\FileReader\FileReader\bin\Debug\Newtonsoft.Json.xml

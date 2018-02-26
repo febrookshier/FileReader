@@ -1,0 +1,12 @@
+C:\Fe\Development\Interviews\FileReader\FileReader\bin\Release\FileReader.exe.config
+C:\Fe\Development\Interviews\FileReader\FileReader\bin\Release\FileReader.exe.manifest
+C:\Fe\Development\Interviews\FileReader\FileReader\bin\Release\FileReader.application
+C:\Fe\Development\Interviews\FileReader\FileReader\bin\Release\FileReader.exe
+C:\Fe\Development\Interviews\FileReader\FileReader\bin\Release\FileReader.pdb
+C:\Fe\Development\Interviews\FileReader\FileReader\bin\Release\Newtonsoft.Json.dll
+C:\Fe\Development\Interviews\FileReader\FileReader\bin\Release\Newtonsoft.Json.xml
+C:\Fe\Development\Interviews\FileReader\FileReader\obj\Release\FileReader.csproj.CoreCompileInputs.cache
+C:\Fe\Development\Interviews\FileReader\FileReader\obj\Release\FileReader.exe.manifest
+C:\Fe\Development\Interviews\FileReader\FileReader\obj\Release\FileReader.application
+C:\Fe\Development\Interviews\FileReader\FileReader\obj\Release\FileReader.exe
+C:\Fe\Development\Interviews\FileReader\FileReader\obj\Release\FileReader.pdb
